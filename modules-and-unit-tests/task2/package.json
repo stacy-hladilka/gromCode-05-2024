@@ -1,8 +1,8 @@
 {
-  "name": "1",
+  "name": "task2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.test.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
